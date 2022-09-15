@@ -30,6 +30,11 @@ hr {
   margin: auto;
 }
 
+.blog-container {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
 /* links  */
 .link {
   text-decoration: none;
@@ -125,6 +130,10 @@ hr {
 .footer .footer-header {
   font-weight: bold;
 }
-.footer ul {
-  /* padding-left: 0px; */
+
+/* Blogs page  */
+.back-to-blogs-cta {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
 }
