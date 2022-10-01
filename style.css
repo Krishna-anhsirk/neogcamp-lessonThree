@@ -152,3 +152,20 @@ hr {
 .web-links {
   text-decoration: none;
 }
+
+/* About page  */
+
+.description {
+  padding: 0 4rem;
+  margin: 0 auto;
+}
+
+.contact-form {
+  border: 1px solid grey;
+  margin: 1rem 3rem;
+  width: 60%;
+}
+.contact-form label {
+  display: block;
+  padding: 1rem;
+}
