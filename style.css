@@ -147,3 +147,8 @@ hr {
 .blog-image img {
   width: 400px;
 }
+
+/* Web link style for blogs  */
+.web-links {
+  text-decoration: none;
+}
